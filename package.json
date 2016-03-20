@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/dahve/myFirstWhiskey/issues"
   },
+  "dependencies" :
+    { "express" : "latest" },
+  
   "homepage": "https://github.com/dahve/myFirstWhiskey#readme"
+  
 }
