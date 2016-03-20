@@ -1,5 +1,5 @@
 var express = require('express');
-var bootstrap = require('bootstrap');
+var jquery = require('jquery');
 
 var app = express();
 
