@@ -16,7 +16,8 @@
         "url": "https://github.com/dahve/myFirstWhiskey/issues"
     },
     "dependencies": {
-        "express": "latest"
+        "express": "latest",
+        "bootstrap": "latest"
     },
     "homepage": "https://github.com/dahve/myFirstWhiskey#readme"
 }
